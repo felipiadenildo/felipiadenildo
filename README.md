@@ -1,11 +1,13 @@
-### Olá, sou o Felipi 👋
+# Felipi Adenildo Soares Sousa
 
-Engenheiro de Computação (USP São Carlos), com foco em **IA aplicada — visão computacional, sistemas embarcados e automação em nuvem**.
+Engenheiro de Computação formado pela Universidade de São Paulo (USP), com experiência profissional em desenvolvimento de software e automação em nuvem, e pesquisa aplicada em inteligência artificial e visão computacional.
 
-- 🔭 **Projeto em destaque:** [`felinet`](https://github.com/felipiadenildo/felinet) — pipeline de visão computacional em 4 fases (detecção, classificação de espécie e reidentificação individual) para monitoramento de fauna. Desenvolvido como TCC em Engenharia de Computação, com ~150 testes automatizados.
-- 🧪 [`CatalIza-gcms`](https://github.com/felipiadenildo/CatalIza-gcms) — ferramenta para facilitar o cálculo de dados de amostras de GCMS (cromatografia gasosa acoplada à espectrometria de massa).
-- 💼 Experiência profissional em automação e cloud (Python, AWS) no mercado financeiro.
-- 🌐 [Site pessoal](https://felipiadenildo.github.io) · [LinkedIn](https://www.linkedin.com/in/felipiadenildo/)
-- 🗣️ Português (nativo) · Inglês (fluente) · Espanhol (avançado) · Mandarim e Japonês (básico)
+**Formação:** Bacharelado em Engenharia de Computação — Escola de Engenharia de São Carlos (EESC) e Instituto de Ciências Matemáticas e de Computação (ICMC), Universidade de São Paulo.
 
-**Stack:** Python · C/C++ · SQL · JavaScript · AWS (EC2, S3, RDS, Lambda) · Docker · PyTorch · OpenCV
+**Experiência:** Atuação profissional em desenvolvimento de software e automação de processos em nuvem no setor financeiro, e em consultoria de tecnologia. Pesquisa de conclusão de curso em visão computacional aplicada ao monitoramento de fauna.
+
+**Áreas de interesse:** inteligência artificial e visão computacional, automação em nuvem, sistemas embarcados.
+
+**Idiomas:** português (nativo), inglês (fluente), espanhol (avançado), mandarim e japonês (básico).
+
+**Contato:** [LinkedIn](https://www.linkedin.com/in/felipiadenildo/) · [site pessoal](https://felipiadenildo.github.io) · felipiadenildo@gmail.com
