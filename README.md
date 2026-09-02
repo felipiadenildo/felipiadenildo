@@ -6,11 +6,11 @@
 
 ## English
 
-Computer Engineer graduated from the University of São Paulo (USP), with professional experience in software development.
+Computer Engineer, graduated from the University of São Paulo (USP).
 
-**Education:** Bachelor's in Computer Engineering — São Carlos School of Engineering (EESC) and Institute of Mathematical and Computer Sciences (ICMC), University of São Paulo.
+**Education:** Bachelor's in Computer Engineering, São Carlos School of Engineering (EESC) and Institute of Mathematical and Computer Sciences (ICMC), University of São Paulo.
 
-**Experience:** Professional experience in software development and process automation in the financial sector, and in technology consulting. Undergraduate thesis in computer vision applied to wildlife monitoring.
+**Experience:** Software development and process automation in the financial sector, plus technology consulting. Undergraduate thesis on computer vision applied to wildlife monitoring.
 
 **Languages:** Portuguese (native), English (fluent), Spanish (advanced), Mandarin and Japanese (basic).
 
@@ -20,11 +20,11 @@ Computer Engineer graduated from the University of São Paulo (USP), with profes
 
 ## Português
 
-Engenheiro de Computação formado pela Universidade de São Paulo (USP), com experiência profissional em desenvolvimento de software.
+Engenheiro de Computação, formado pela Universidade de São Paulo (USP).
 
-**Formação:** Bacharelado em Engenharia de Computação — Escola de Engenharia de São Carlos (EESC) e Instituto de Ciências Matemáticas e de Computação (ICMC), Universidade de São Paulo.
+**Formação:** Bacharelado em Engenharia de Computação, Escola de Engenharia de São Carlos (EESC) e Instituto de Ciências Matemáticas e de Computação (ICMC), Universidade de São Paulo.
 
-**Experiência:** Atuação profissional em desenvolvimento de software e automação de processos no setor financeiro, e em consultoria de tecnologia. Trabalho de conclusão de curso em visão computacional aplicada ao monitoramento de fauna.
+**Experiência:** Desenvolvimento de software e automação de processos no setor financeiro, além de consultoria de tecnologia. Trabalho de conclusão de curso em visão computacional aplicada ao monitoramento de fauna.
 
 **Idiomas:** português (nativo), inglês (fluente), espanhol (avançado), mandarim e japonês (básico).
 
@@ -34,11 +34,11 @@ Engenheiro de Computação formado pela Universidade de São Paulo (USP), com ex
 
 ## 中文
 
-计算机工程师，毕业于圣保罗大学（USP），拥有软件开发方面的专业经验。
+计算机工程师，毕业于圣保罗大学（USP）。
 
-**学历：** 计算机工程学士 —— 圣保罗大学圣卡洛斯工程学院（EESC）与数学计算科学研究所（ICMC）。
+**学历：** 计算机工程学士，圣保罗大学圣卡洛斯工程学院（EESC）与数学计算科学研究所（ICMC）。
 
-**工作经历：** 曾在金融行业从事软件开发与流程自动化的专业工作，亦有技术咨询经验。本科毕业论文研究计算机视觉在野生动物监测中的应用。
+**工作经历：** 曾在金融行业从事软件开发与流程自动化工作，并有技术咨询经验。本科毕业论文研究计算机视觉在野生动物监测中的应用。
 
 **语言能力：** 葡萄牙语（母语）、英语（流利）、西班牙语（高级）、中文与日语（基础）。
 
