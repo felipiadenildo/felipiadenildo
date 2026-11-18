@@ -10,17 +10,6 @@ to understand a process properly before writing the first line of code.
   pipeline (MegaDetector, SpeciesNet, MegaDescriptor) that detects and re-identifies the cats of USP's Campus 2 colony.
 - **MBA in Software Engineering** at USP/Esalq, in progress (2026–2028).
 
-## Selected work
-
-| Project | What it is |
-|---|---|
-| [felinet](https://github.com/felipiadenildo/felinet) | computer vision pipeline for wildlife monitoring (thesis) · Python, PyTorch |
-| [lumen-games-allocation](https://github.com/felipiadenildo/lumen-games-allocation) | take-home case: cost allocation pipeline with checks that stop on a wrong number · DuckDB SQL |
-| [emporio-da-musica-agent](https://github.com/felipiadenildo/emporio-da-musica-agent) | take-home case: LLM customer service agent with tools for data and policies · Python |
-| [tcg-card-manager](https://github.com/felipiadenildo/tcg-card-manager) | full-stack admin portal with no frameworks · PHP, MySQL, vanilla JS, Docker |
-| [site-advogada-juliana](https://github.com/felipiadenildo/site-advogada-juliana) | freelance landing page for a law firm, live in production · Next.js, TypeScript |
-| [scaffold](https://github.com/felipiadenildo/scaffold) | concept prototype: routine and environment for ADHD (paused) · TypeScript, PWA |
-
 **Stack I use most:** Python, SQL, TypeScript · pandas, DuckDB, PostgreSQL · AWS, Docker, Linux.
 
 **Languages:** Portuguese (native), English (fluent), Spanish (intermediate–advanced), Mandarin (basic, studying).
