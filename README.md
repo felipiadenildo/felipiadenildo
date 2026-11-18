@@ -1,45 +1,43 @@
 # Felipi Adenildo Soares Sousa
 
-[English](#english) · [Português](#português) · [中文](#中文)
+Computer Engineer from the University of São Paulo (USP São Carlos). I build software and data pipelines, and I like
+to understand a process properly before writing the first line of code.
 
----
+- **3 years at BTG Pactual** automating back-office work with Python, SQL and AWS. The highlight is a real-time
+  document-signature tracker integrated with the Clicksign API: it handles thousands of documents a month and replaced
+  manual follow-up by spreadsheet and e-mail.
+- **Bachelor's thesis in computer vision:** [felinet](https://github.com/felipiadenildo/felinet), a four-stage
+  pipeline (MegaDetector, SpeciesNet, MegaDescriptor) that detects and re-identifies the cats of USP's Campus 2 colony.
+- **MBA in Software Engineering** at USP/Esalq, in progress (2026–2028).
 
-## English
+## Selected work
 
-Computer Engineer, graduated from the University of São Paulo (USP).
+| Project | What it is |
+|---|---|
+| [felinet](https://github.com/felipiadenildo/felinet) | computer vision pipeline for wildlife monitoring (thesis) · Python, PyTorch |
+| [lumen-games-allocation](https://github.com/felipiadenildo/lumen-games-allocation) | take-home case: cost allocation pipeline with checks that stop on a wrong number · DuckDB SQL |
+| [emporio-da-musica-agent](https://github.com/felipiadenildo/emporio-da-musica-agent) | take-home case: LLM customer service agent with tools for data and policies · Python |
+| [tcg-card-manager](https://github.com/felipiadenildo/tcg-card-manager) | full-stack admin portal with no frameworks · PHP, MySQL, vanilla JS, Docker |
+| [site-advogada-juliana](https://github.com/felipiadenildo/site-advogada-juliana) | freelance landing page for a law firm, live in production · Next.js, TypeScript |
+| [scaffold](https://github.com/felipiadenildo/scaffold) | concept prototype: routine and environment for ADHD (paused) · TypeScript, PWA |
 
-**Education:** Bachelor's in Computer Engineering, São Carlos School of Engineering (EESC) and Institute of Mathematical and Computer Sciences (ICMC), University of São Paulo.
+**Stack I use most:** Python, SQL, TypeScript · pandas, DuckDB, PostgreSQL · AWS, Docker, Linux.
 
-**Experience:** Software development and process automation in the financial sector, plus technology consulting. Undergraduate thesis on computer vision applied to wildlife monitoring.
+**Languages:** Portuguese (native), English (fluent), Spanish (intermediate–advanced), Mandarin (basic, studying).
 
-**Languages:** Portuguese (native), English (fluent), Spanish (advanced), Mandarin and Japanese (basic).
-
-**Contact:** [LinkedIn](https://www.linkedin.com/in/felipiadenildo/) · [personal website](https://felipiadenildo.github.io) · felipiadenildo@gmail.com
+[LinkedIn](https://www.linkedin.com/in/felipiadenildo/) · [Website](https://felipiadenildo.github.io)
 
 ---
 
 ## Português
 
-Engenheiro de Computação, formado pela Universidade de São Paulo (USP).
+Engenheiro de Computação pela USP São Carlos. Desenvolvo software e pipelines de dados, e gosto de entender um
+processo direito antes de escrever a primeira linha de código.
 
-**Formação:** Bacharelado em Engenharia de Computação, Escola de Engenharia de São Carlos (EESC) e Instituto de Ciências Matemáticas e de Computação (ICMC), Universidade de São Paulo.
+- **3 anos no BTG Pactual** automatizando processos com Python, SQL e AWS; o principal foi um rastreador de
+  assinaturas de documentos em tempo real, integrado à Clicksign, que processa milhares de documentos por mês.
+- **TCC em visão computacional:** [felinet](https://github.com/felipiadenildo/felinet), que detecta e reidentifica os
+  gatos da colônia do Campus 2 da USP.
+- **MBA em Engenharia de Software** pela USP/Esalq, em andamento.
 
-**Experiência:** Desenvolvimento de software e automação de processos no setor financeiro, além de consultoria de tecnologia. Trabalho de conclusão de curso em visão computacional aplicada ao monitoramento de fauna.
-
-**Idiomas:** português (nativo), inglês (fluente), espanhol (avançado), mandarim e japonês (básico).
-
-**Contato:** [LinkedIn](https://www.linkedin.com/in/felipiadenildo/) · [site pessoal](https://felipiadenildo.github.io) · felipiadenildo@gmail.com
-
----
-
-## 中文
-
-计算机工程师，毕业于圣保罗大学（USP）。
-
-**学历：** 计算机工程学士，圣保罗大学圣卡洛斯工程学院（EESC）与数学计算科学研究所（ICMC）。
-
-**工作经历：** 曾在金融行业从事软件开发与流程自动化工作，并有技术咨询经验。本科毕业论文研究计算机视觉在野生动物监测中的应用。
-
-**语言能力：** 葡萄牙语（母语）、英语（流利）、西班牙语（高级）、中文与日语（基础）。
-
-**联系方式：** [LinkedIn](https://www.linkedin.com/in/felipiadenildo/) · [个人网站](https://felipiadenildo.github.io) · felipiadenildo@gmail.com
+[LinkedIn](https://www.linkedin.com/in/felipiadenildo/) · [Site](https://felipiadenildo.github.io)
